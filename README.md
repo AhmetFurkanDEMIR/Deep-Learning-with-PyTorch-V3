@@ -40,3 +40,7 @@ ve çok sınıflı sınıflandırma.
 
 
 # Modelimizin Testi
+
+![Screenshot_2020-05-13_10-34-56](https://user-images.githubusercontent.com/54184905/81788025-8f067c80-950a-11ea-8ae1-65d3855442c1.png)
+![Screenshot_2020-05-13_10-47-38](https://user-images.githubusercontent.com/54184905/81788030-9037a980-950a-11ea-8152-327db36c7dd7.png)
+

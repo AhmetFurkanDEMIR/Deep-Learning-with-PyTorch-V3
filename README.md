@@ -9,4 +9,17 @@ ve çok sınıflı sınıflandırma.
 
 # Adımlarımız
 
-*
+* Veri kümesini keşfetme
+* Özel bir veri kümesi oluşturma
+* Veri kümesini bölme ve Verileri dönüştürme
+* Veri yükleyici oluşturma
+* Sınıflandırma modelinin oluşturulması
+* Kayıp fonksiyonunun tanımlanması, Optimize ediciyi tanımlama
+* Modelin eğitimi ve değerlendirilmesi
+* Modelin testi
+
+# Veri seti
+
+* Histopatolojik Kanser Tespiti yarışmasında verilen veri setini kullanacağız. Bu yarışmanın amacı, görüntü yamalarını normal veya kötü huylu olarak sınıflandırmaktır.
+
+* Veri seti (Histopathologic Cancer Detection) = https://www.kaggle.com/c/histopathologic-cancer-detection

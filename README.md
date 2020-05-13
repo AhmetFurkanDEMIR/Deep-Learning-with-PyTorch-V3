@@ -7,6 +7,7 @@ ana nesneyi sınıflandırmak.
 ve çok sınıflı sınıflandırma.
 * Bu projede, metastatik(Göğüs) kanseri tanımlamak için bir algoritmanın nasıl oluşturulacağını öğreneceğiz.
 
+
 # Adımlarımız
 
 * Veri kümesini keşfetme
@@ -18,9 +19,14 @@ ve çok sınıflı sınıflandırma.
 * Modelin eğitimi ve değerlendirilmesi
 * Modelin testi
 
+
 # Veri seti
 
 * Histopatolojik Kanser Tespiti yarışmasında verilen veri setini kullanacağız. Bu yarışmanın amacı, görüntü yamalarını normal veya kötü huylu olarak sınıflandırmaktır.
 * Veri seti: 7.2 Gb, 277485 veri 
 * Veri seti (Histopathologic Cancer Detection) = https://www.kaggle.com/c/histopathologic-cancer-detection
+
+
+# Modelimizin Kaybı ve Başarımı
+
 

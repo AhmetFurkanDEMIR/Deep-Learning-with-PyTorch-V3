@@ -420,7 +420,7 @@ params_train={
  "path2weights": "./models/weights.pt",
 }
 
-# train and validate the model
+# modelin eğitimi
 cnn_model,loss_hist,metric_hist=train_val(cnn_model,params_train)
 
 num_epochs=params_train["num_epochs"]

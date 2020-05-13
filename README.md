@@ -32,9 +32,11 @@ ve çok sınıflı sınıflandırma.
 ![rhtrh](https://user-images.githubusercontent.com/54184905/81787781-3afb9800-950a-11ea-839b-8b83447c2db6.png)
 
 
-# Modelimizin kaybı ve başarımı
+# Modelimizin Kaybı ve Başarımı
 
 ![Screenshot_2020-05-13_03-09-14](https://user-images.githubusercontent.com/54184905/81787922-67171900-950a-11ea-9f66-3353382a37ed.png)
 
 ![Screenshot_2020-05-13_03-09-30](https://user-images.githubusercontent.com/54184905/81787926-67afaf80-950a-11ea-9def-b229ab0b095f.png)
 
+
+# Modelimizin Testi

@@ -27,6 +27,10 @@ ve çok sınıflı sınıflandırma.
 * Veri seti (Histopathologic Cancer Detection) = https://www.kaggle.com/c/histopathologic-cancer-detection
 
 
-# Modelimizin Kaybı ve Başarımı
+# Modelimiz
 
+![rhtrh](https://user-images.githubusercontent.com/54184905/81787781-3afb9800-950a-11ea-839b-8b83447c2db6.png)
+
+
+# Modelimizin kaybı ve başarımı
 

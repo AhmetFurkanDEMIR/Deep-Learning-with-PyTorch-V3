@@ -21,5 +21,6 @@ ve çok sınıflı sınıflandırma.
 # Veri seti
 
 * Histopatolojik Kanser Tespiti yarışmasında verilen veri setini kullanacağız. Bu yarışmanın amacı, görüntü yamalarını normal veya kötü huylu olarak sınıflandırmaktır.
-
+* Veri seti: 7.2 Gb, 277485 veri 
 * Veri seti (Histopathologic Cancer Detection) = https://www.kaggle.com/c/histopathologic-cancer-detection
+
